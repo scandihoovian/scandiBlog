@@ -4,5 +4,4 @@ draft = true
 title = 'EASY PEASY'
 +++
 
-
-Kind of.
+![My photo](/moe.jpg)
