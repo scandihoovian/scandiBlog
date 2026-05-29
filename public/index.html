@@ -100,9 +100,33 @@
         </ul>
     </nav>
 </header>
-<main class="main"> 
+<main class="main"> <div style="text-align:center; padding: 1.5rem 0;">
+  <div id="sober-days" style="font-size: 72px; font-weight: 500; line-height: 1;"></div>
+  <div style="font-size: 16px; color: gray; margin-top: 8px;">days sober</div>
+  <div style="font-size: 13px; color: gray; margin-top: 6px;">since September 8, 2021</div>
+</div>
+<script>
+  const start = new Date('2021-09-08T00:00:00');
+  const days = Math.floor((new Date() - start) / 86400000);
+  document.getElementById('sober-days').textContent = days.toLocaleString();
+</script>
 
-<article class="first-entry"> 
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Second Post
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>hey this is my second post! trying to memorize git commands. =)
+</p>
+  </div>
+  <footer class="entry-footer">
+
+<span title='2026-05-29 15:28:25 -0500 CDT'>May 29, 2026</span></footer>
+  <a class="entry-link" aria-label="post link to Second Post" href="http://localhost:1313/posts/second-post/"></a>
+</article>
+
+<article class="post-entry"> 
   <header class="entry-header">
     <h2 class="entry-hint-parent">Hello World
     </h2>
