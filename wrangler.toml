@@ -1,4 +1,5 @@
-name = "scandi-blog"
+name = "scandi"
+compatibility_date = "2026-05-29"
 pages_build_output_dir = "public"
 
 [build]
