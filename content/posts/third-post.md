@@ -4,4 +4,4 @@ draft = false
 title = 'EASY PEASY'
 +++
 
-![My photo](/moe.jpg)
+![My photo](/moe.JPG)
