@@ -1,0 +1,4 @@
+baseURL = "https://hoovian.com"
+languageCode = "en-us"
+title = "scandi's blog"
+theme = "PaperMod"
