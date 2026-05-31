@@ -4,7 +4,6 @@ title = "scandi's blog"
 theme = "PaperMod"
 
 [params]
-  homeInfoParams = true
 
 [params.homeInfoParams]
   Title = "Hi there 👋"
