@@ -4,3 +4,4 @@ title = "scandi's blog"
 theme = "PaperMod"
 [params]
   homeInfoParams = true
+  email = "scandi@hoovian.com"
