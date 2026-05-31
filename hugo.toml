@@ -2,8 +2,14 @@ baseURL = "https://hoovian.com"
 languageCode = "en-us"
 title = "scandi's blog"
 theme = "PaperMod"
+
 [params]
   homeInfoParams = true
-  [[params.socialIcons]]
+
+[params.homeInfoParams]
+  Title = "Hi there 👋"
+  Content = "Welcome to my blog"
+
+[[params.socialIcons]]
   name = "email"
   url = "mailto:scandi@hoovian.com"
