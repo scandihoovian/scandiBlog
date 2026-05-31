@@ -4,4 +4,6 @@ title = "scandi's blog"
 theme = "PaperMod"
 [params]
   homeInfoParams = true
-  email = "scandi@hoovian.com"
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:scandi@hoovian.com"
