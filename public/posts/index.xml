@@ -13,7 +13,9 @@
       <link>http://localhost:1313/posts/third-post/</link>
       <pubDate>Fri, 29 May 2026 16:08:42 -0500</pubDate>
       <guid>http://localhost:1313/posts/third-post/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;My photo&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/moe.JPG&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;say-hi-to-moe&#34;&gt;Say Hi to Moe!&lt;/h2&gt;
+&lt;p&gt;He turned 10 this year. Still doesn&amp;rsquo;t have a gray hair. Probably because he&amp;rsquo;s a simple guy with simple needs. Don&amp;rsquo;t fret the small stuff.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;My photo&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/moe.JPG&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

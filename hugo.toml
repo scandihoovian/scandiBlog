@@ -4,11 +4,12 @@ title = "scandi's blog"
 theme = "PaperMod"
 
 [params]
+  defaultTheme = "auto"
 
 [params.homeInfoParams]
   Title = "Hi there 👋"
   Content = "Welcome to my blog"
 
 [[params.socialIcons]]
-  name = "email"
+  name = "envelope"
   url = "mailto:scandi@hoovian.com"
