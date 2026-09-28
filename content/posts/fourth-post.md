@@ -4,8 +4,6 @@ draft = false
 title = 'Second post'
 +++
 
-## This is Cali
+## Cheers
 
-Cali was our first dog. 
-
-![My photo](/cali.JPG)
+![My photo](/bear.png)
