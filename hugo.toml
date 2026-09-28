@@ -1,4 +1,4 @@
-baseURL = "https://hoovian.com"
+baseURL = "https://scandihoovian.net"
 languageCode = "en-us"
 title = "scandi's blog"
 theme = "PaperMod"
@@ -9,6 +9,7 @@ theme = "PaperMod"
 [params.homeInfoParams]
   Title = "Hi there 👋"
   Content = "Welcome to my blog"
+  Content = "Short intro text. <br><img src='/My Photos/bear.png' width='300'>"
 
 [[params.socialIcons]]
   name = "envelope"
