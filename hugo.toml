@@ -1,0 +1,18 @@
+baseURL = "https://scandihoovian.net/"
+languageCode = "en-us"
+title = "scandi's blog"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+
+  [params.homeInfoParams]
+    Title = "Hi there 👋"
+    Content = "Welcome to my blog<br><img src='/moe.JPG' width='300' alt='Moe'>"
+
+  [[params.socialIcons]]
+    name = "envelope"
+    url = "mailto:scandi@hoovian.com"
+
+[markup.goldmark.renderer]
+  unsafe = true
